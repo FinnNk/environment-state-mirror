@@ -1,0 +1,6 @@
+{
+  "image": "gitea.localhost:31800/elastic-agent/search-spike@sha256:3dfb731491d6abf1ae3b03c3a43277823e2c5fb1d3ec6fd3db59ae939aea5177",
+  "index": "retail-gb-10k-v1",
+  "dataset_sha256": "164ca27a8a12ba5231f8896ca9ac2bd44492d9d341aa0d7c3ddd0c4f61aa434e",
+  "engine": "9.5.4"
+}
