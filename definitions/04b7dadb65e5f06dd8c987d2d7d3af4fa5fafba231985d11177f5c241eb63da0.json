@@ -1,0 +1,6 @@
+{
+  "image": "gitea.localhost:31800/elastic-agent/search-spike@sha256:e652ac1a4411c4b08ed6a4bf0f71657c3017bd29a56520d090357156593e57a8",
+  "index": "spike-frozen-v1",
+  "dataset_sha256": "c438655f41953fbd55e4595155e275c7e9a7a713edff479df9bdc21f0779c364",
+  "engine": "9.5.4"
+}
