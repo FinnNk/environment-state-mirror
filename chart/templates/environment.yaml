@@ -31,7 +31,7 @@ spec:
           imagePullPolicy: IfNotPresent
           env:
             - name: ES_URL
-              value: https://shared-es-http.platform.svc.cluster.local:9200
+              value: https://shared-es-http.platform.svc:9200
             - name: ES_INDEX
               value: {{ .Values.index | quote }}
           envFrom:
