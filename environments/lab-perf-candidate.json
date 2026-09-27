@@ -1,0 +1,8 @@
+{
+  "image": "gitea.localhost:31800/elastic-agent/search-spike@sha256:2a86bc011ba3207165fb2258a9f60a916ff00833e7e25df8a5b68e61fcfe93bc",
+  "index": "retail-gb-10k-v1",
+  "dataset_sha256": "164ca27a8a12ba5231f8896ca9ac2bd44492d9d341aa0d7c3ddd0c4f61aa434e",
+  "engine": "9.5.4",
+  "fingerprint": "aaba0c055c04e72ed5262110af8abb176fa387c35e1bc1b72886715019419c23",
+  "environment": "lab-perf-candidate"
+}
