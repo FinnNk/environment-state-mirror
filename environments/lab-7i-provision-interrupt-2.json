@@ -1,0 +1,10 @@
+{
+  "image": "gitea.localhost:31800/elastic-agent/search-spike@sha256:0938c56583f28d0c87d49ad8ded0734a6c0611228fdefa6649a30d4b8e1c18fc",
+  "index": "lab-7i-provision-interrupt-2-idx",
+  "dataset_sha256": "164ca27a8a12ba5231f8896ca9ac2bd44492d9d341aa0d7c3ddd0c4f61aa434e",
+  "engine": "9.5.4",
+  "mapping_sha256": "ea454d0e1ff65d2abc5668514cc07583528fa51106ba00b8cbc1e01c8842cdfb",
+  "index_recipe_sha256": "511b1d4aa37af0313af09eb4d3a15ab6edb93a9feb87a18b17429cae7758b6e2",
+  "fingerprint": "192fb8fcc96bcec256d01922f2ec3b6ade04f5157be17f674a26fd957047ee9f",
+  "environment": "lab-7i-provision-interrupt-2"
+}
