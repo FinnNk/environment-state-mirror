@@ -1,5 +1,5 @@
 {
-  "image": "nexus.localhost:18185/search-api@sha256:aa9a3d91a316994c7e67bc61a8aaf4085772f6ddc1349d2fca97b5912e1e9bb3",
+  "image": "nexus.localhost:18185/search-api@sha256:4abc31145f2e9f3f53b557d1f1386060e39c3cdcb343ba1997de28830505083c",
   "index": "retail-gb-1m-v1",
   "dataset_sha256": "a6c78afb7df078016828a8a9a93b88b2d1db6a16ef64080a37dc33c23c2cc1d6",
   "engine": "9.5.4",
