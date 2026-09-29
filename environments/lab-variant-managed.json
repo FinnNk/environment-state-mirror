@@ -1,10 +1,10 @@
 {
-  "image": "nexus.localhost:18185/search-api@sha256:4c7e867d66fc93cdcd433d9fdad2eff238a3fc16bec3bc658aa6f55a268cefb7",
+  "image": "nexus.localhost:18185/search-api@sha256:f5b9fcd4878df8174ec57987d68473bb425fe73166d6c343636bb4a1df258699",
   "index": "retail-gb-1m-v1",
   "dataset_sha256": "a6c78afb7df078016828a8a9a93b88b2d1db6a16ef64080a37dc33c23c2cc1d6",
   "engine": "9.5.4",
   "image_pull_secret": "nexus-read",
   "variant_config_b64": "eyJkZWZhdWx0X3ZhcmlhbnQiOiJyYW5rZXItYSIsInZhcmlhbnRzIjp7InJhbmtlci1hIjp7ImZpZWxkX2Jvb3N0cyI6eyJicmFuZCI6MiwiZGVzY3JpcHRpb24iOjEsInByb2R1Y3RfdHlwZSI6MywidGl0bGUiOjR9fSwicmFua2VyLWIiOnsiZmllbGRfYm9vc3RzIjp7ImJyYW5kIjoyLCJkZXNjcmlwdGlvbiI6MSwicHJvZHVjdF90eXBlIjozLCJ0aXRsZSI6Mn19LCJyYW5rZXItYyI6eyJmaWVsZF9ib29zdHMiOnsiYnJhbmQiOjEsImRlc2NyaXB0aW9uIjoxLCJwcm9kdWN0X3R5cGUiOjMsInRpdGxlIjo3fX19fQ==",
-  "fingerprint": "d0c6593325d5d836ab5ba03e7993f7b12a41ab44be4401c28e2da154a1605bd1",
+  "fingerprint": "87d057e569d546c39eead23e90ef1a75b81607be107b0fca2759582b40991cea",
   "environment": "lab-variant-managed"
 }
