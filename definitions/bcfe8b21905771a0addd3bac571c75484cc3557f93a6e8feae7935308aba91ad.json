@@ -1,0 +1,7 @@
+{
+  "image": "nexus.localhost:18185/search-api@sha256:d85dc3f2e32b71782deeffcb7832d4e28b68a39aa7019924bf120d8fc2db02f8",
+  "index": "retail-gb-1m-v1",
+  "dataset_sha256": "a6c78afb7df078016828a8a9a93b88b2d1db6a16ef64080a37dc33c23c2cc1d6",
+  "engine": "9.5.4",
+  "variant_config_json": "{\"default_variant\":\"ranker-a\",\"variants\":{\"ranker-a\":{\"field_boosts\":{\"brand\":2,\"description\":1,\"product_type\":3,\"title\":4}},\"ranker-b\":{\"field_boosts\":{\"brand\":2,\"description\":1,\"product_type\":3,\"title\":2}},\"ranker-c\":{\"field_boosts\":{\"brand\":1,\"description\":1,\"product_type\":3,\"title\":7}}}}"
+}
