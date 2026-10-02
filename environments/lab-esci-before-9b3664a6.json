@@ -1,0 +1,10 @@
+{
+  "image": "nexus.localhost:18185/search-api@sha256:2aea8fc47d7f3af81ad75e463f1b5dd21d9d8554f04442139092ab275ea1f5a2",
+  "index": "esci-gb-v1-rc5f6d204c4467d4c49f842e3",
+  "dataset_sha256": "dfe6cecbc7d745a728fbed59679be10af0532be69583f65dc078c8108c25ff50",
+  "engine": "9.5.4",
+  "image_pull_secret": "nexus-read",
+  "variant_config_b64": "eyJkZWZhdWx0X3ZhcmlhbnQiOiJyYW5rZXItYmFzZWxpbmUiLCJ2YXJpYW50cyI6eyJyYW5rZXItYmFzZWxpbmUiOnsiZmllbGRfYm9vc3RzIjp7ImJyYW5kIjoyLCJkZXNjcmlwdGlvbiI6MSwicHJvZHVjdF90eXBlIjozLCJ0aXRsZSI6NH19fX0=",
+  "fingerprint": "e854ed8694d87544c8769ba83a5884bf98efbde9f62ce667ca36dff3aca6d62d",
+  "environment": "lab-esci-before-9b3664a6"
+}
