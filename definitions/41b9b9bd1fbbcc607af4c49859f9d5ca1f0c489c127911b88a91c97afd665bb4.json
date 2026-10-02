@@ -1,0 +1,8 @@
+{
+  "image": "nexus.localhost:18185/search-api@sha256:b48c4cd1acf2ff50c1035009c642757ba3ee417c72ef397f73a8401d2bcbb295",
+  "index": "retail-gb-1m-v1",
+  "dataset_sha256": "a6c78afb7df078016828a8a9a93b88b2d1db6a16ef64080a37dc33c23c2cc1d6",
+  "engine": "9.5.4",
+  "image_pull_secret": "nexus-read",
+  "variant_config_b64": "eyJkZWZhdWx0X3ZhcmlhbnQiOiJyYW5rZXItYmFzZWxpbmUiLCJ2YXJpYW50cyI6eyJyYW5rZXItYmFzZWxpbmUiOnsiZmllbGRfYm9vc3RzIjp7ImJyYW5kIjoyLCJkZXNjcmlwdGlvbiI6MSwicHJvZHVjdF90eXBlIjozLCJ0aXRsZSI6NH19fX0="
+}
