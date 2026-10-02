@@ -1,0 +1,10 @@
+{
+  "image": "nexus.localhost:18185/search-api@sha256:dc5d1a12582d2a116cebdb2aafb8b8b0f337b15d15dcc4c05142ea044c9d234f",
+  "index": "retail-gb-1m-v1",
+  "dataset_sha256": "a6c78afb7df078016828a8a9a93b88b2d1db6a16ef64080a37dc33c23c2cc1d6",
+  "engine": "9.5.4",
+  "image_pull_secret": "nexus-read",
+  "variant_config_b64": "eyJkZWZhdWx0X3ZhcmlhbnQiOiJyYW5rZXItYSIsInZhcmlhbnRzIjp7InJhbmtlci1hIjp7ImZpZWxkX2Jvb3N0cyI6eyJicmFuZCI6MiwiZGVzY3JpcHRpb24iOjEsInByb2R1Y3RfdHlwZSI6MywidGl0bGUiOjR9fSwicmFua2VyLWIiOnsiZmllbGRfYm9vc3RzIjp7ImJyYW5kIjoyLCJkZXNjcmlwdGlvbiI6MSwicHJvZHVjdF90eXBlIjozLCJ0aXRsZSI6Mn19LCJyYW5rZXItYyI6eyJmaWVsZF9ib29zdHMiOnsiYnJhbmQiOjEsImRlc2NyaXB0aW9uIjoxLCJwcm9kdWN0X3R5cGUiOjMsInRpdGxlIjo3fX19fQ==",
+  "fingerprint": "a46dd43fad82c41ad247706c6e6105c2789ab14f607ff02f3294fa2672e27e56",
+  "environment": "lab-storefront-candidate-a7877210"
+}

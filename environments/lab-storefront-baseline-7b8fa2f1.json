@@ -1,0 +1,10 @@
+{
+  "image": "nexus.localhost:18185/search-api@sha256:f628c92516ff41640db08dc281455e04348aeb89c2aeff95d91b67fe500f470d",
+  "index": "retail-gb-1m-v1",
+  "dataset_sha256": "a6c78afb7df078016828a8a9a93b88b2d1db6a16ef64080a37dc33c23c2cc1d6",
+  "engine": "9.5.4",
+  "image_pull_secret": "nexus-read",
+  "variant_config_b64": "eyJkZWZhdWx0X3ZhcmlhbnQiOiJyYW5rZXItYmFzZWxpbmUiLCJ2YXJpYW50cyI6eyJyYW5rZXItYmFzZWxpbmUiOnsiZmllbGRfYm9vc3RzIjp7ImJyYW5kIjoyLCJkZXNjcmlwdGlvbiI6MSwicHJvZHVjdF90eXBlIjozLCJ0aXRsZSI6NH19fX0=",
+  "fingerprint": "e67faf54cec80945d4f486b202ea02ba7f67fa699beb88179c81bf37a5985d77",
+  "environment": "lab-storefront-baseline-7b8fa2f1"
+}
