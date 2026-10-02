@@ -1,0 +1,8 @@
+{
+  "image": "gitea.localhost:31800/elastic-agent/search-spike@sha256:dd415fcbe39325df31edbebc334d04a3c21bde18b7a77baa7c0940e15c6bef1b",
+  "index": "esci-gb-v1-rc5f6d204c4467d4c49f842e3",
+  "dataset_sha256": "dfe6cecbc7d745a728fbed59679be10af0532be69583f65dc078c8108c25ff50",
+  "engine": "9.5.4",
+  "mapping_sha256": "d3dd2954162a449a0e9fff6f97135a9cdf474000181ede2b3283f0e60f1e7562",
+  "index_recipe_sha256": "c5f6d204c4467d4c49f842e32e37e2ccd442a2211b02268440ad213cd784fa4c"
+}
