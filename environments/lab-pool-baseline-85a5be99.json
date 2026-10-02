@@ -1,0 +1,10 @@
+{
+  "image": "nexus.localhost:18185/search-api@sha256:5824998ab7af597df558089b6bd82f1b4098ba3797f375027abaf31649ac6bb7",
+  "index": "retail-gb-1m-v1",
+  "dataset_sha256": "a6c78afb7df078016828a8a9a93b88b2d1db6a16ef64080a37dc33c23c2cc1d6",
+  "engine": "9.5.4",
+  "image_pull_secret": "nexus-read",
+  "variant_config_b64": "eyJkZWZhdWx0X3ZhcmlhbnQiOiJyYW5rZXItYmFzZWxpbmUiLCJ2YXJpYW50cyI6eyJyYW5rZXItYmFzZWxpbmUiOnsiZmllbGRfYm9vc3RzIjp7ImJyYW5kIjoyLCJkZXNjcmlwdGlvbiI6MSwicHJvZHVjdF90eXBlIjozLCJ0aXRsZSI6NH19fX0=",
+  "fingerprint": "62a4690390223f528ec42e95f8786ba39a6dcc4c78bf04d7db6ae99937d7efd5",
+  "environment": "lab-pool-baseline-85a5be99"
+}
