@@ -1,0 +1,8 @@
+{
+  "image": "nexus.localhost:18185/search-api@sha256:9fd558aeaccc9abfb859cc3cb18e79d8ca726284a22c31a8940cfd8106233bbe",
+  "index": "lab-tooling-gate-aaffb2f1cb0abfc3",
+  "dataset_sha256": "aaffb2f1cb0abfc395b4e51eb4677a556acdbed81ab49fdbb5a991256c3d8d8a",
+  "engine": "9.5.4",
+  "image_pull_secret": "nexus-read",
+  "variant_config_b64": "eyJkZWZhdWx0X3ZhcmlhbnQiOiJjYW5kaWRhdGUiLCJ2YXJpYW50cyI6eyJiYXNlbGluZSI6eyJmaWVsZF9ib29zdHMiOnsiYnJhbmQiOjIsImRlc2NyaXB0aW9uIjoxLCJwcm9kdWN0X3R5cGUiOjMsInRpdGxlIjo0fX0sImNhbmRpZGF0ZSI6eyJmaWVsZF9ib29zdHMiOnsiYnJhbmQiOjIsImRlc2NyaXB0aW9uIjoxLCJwcm9kdWN0X3R5cGUiOjMsInRpdGxlIjo0fX19fQ=="
+}
